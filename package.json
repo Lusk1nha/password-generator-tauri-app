@@ -1,6 +1,10 @@
 {
   "name": "password-generator-app",
   "private": true,
+  "author": {
+    "name": "Lucas Pedro da Hora",
+    "email": "lucaspedro517@gmail.com"
+  },
   "version": "0.0.0",
   "type": "module",
   "scripts": {

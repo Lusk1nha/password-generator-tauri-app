@@ -9,7 +9,7 @@ import { Strength } from "./Strength/Strength";
 import { ArrowRightIcon } from "../shared/assets/images/ArrowRightIcon";
 
 import { clipboard, invoke } from "@tauri-apps/api";
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import {
   isPermissionGranted,
   requestPermission,
