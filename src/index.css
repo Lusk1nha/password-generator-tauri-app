@@ -7,8 +7,6 @@
   box-sizing: border-box;
 
   font-family: "JetBrains Mono", monospace;
-
-  user-select: none;
 }
 
 input[type="range"] {
